@@ -1,8 +1,11 @@
-<img src="https://komarev.com/ghpvc/?username=MCJAPAN" />
-<img src="https://komarev.com/ghpvc/?username=fox-sign" />
+Old Repository Viewcount:<img src="https://komarev.com/ghpvc/?username=MCJAPAN" />
+Repository Viewcount:<img src="https://komarev.com/ghpvc/?username=fox-sign" />
+### Qiita Data
 <img height="20" src="https://qiita-badge.apiapi.app/s/foxsign/posts.svg" />
 <img height="20" src="https://qiita-badge.apiapi.app/s/foxsign/followers.svg" />
+### Skills&Environments Icon
 <img src="https://skillicons.dev/icons?i=html,css,js,github,gmail,py,vscode,windows&perline=4">
+### Skills&Environments and More...
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
@@ -53,3 +56,4 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fox-sign&theme=GitHub&utcOffset=9">
 <img src="https://github-stats-evirunurm.vercel.app/api/stats?username=fox-sign&peng=false&color=white">
 <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=fox-sign&pie=false&color=white">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fox-sign&theme=react">
