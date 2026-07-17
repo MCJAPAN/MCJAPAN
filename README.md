@@ -1,11 +1,20 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kiwi+Maru&weight=500&size=36&duration=3000&pause=1000&width=435&height=56&lines=Web+Developer;Students;Creator;Blogger;Web%E9%96%8B%E7%99%BA%E8%80%85;%E5%AD%A6%E7%94%9F;%E4%BD%9C%E3%82%8A%E6%89%8B;%E3%83%96%E3%83%AD%E3%82%AC%E3%83%BC" alt="Typing SVG" /></a>
+
+
+### Github View
+
 Old Repository Viewcount:<img src="https://komarev.com/ghpvc/?username=MCJAPAN" />
 Repository Viewcount:<img src="https://komarev.com/ghpvc/?username=fox-sign" />
 ### Qiita Data
 <img height="20" src="https://qiita-badge.apiapi.app/s/foxsign/posts.svg" />
 <img height="20" src="https://qiita-badge.apiapi.app/s/foxsign/followers.svg" />
+
 ### Skills&Environments Icon
+
 <img src="https://skillicons.dev/icons?i=html,css,js,github,gmail,py,vscode,windows&perline=4">
+
 ### Skills&Environments and More...
+
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
@@ -49,6 +58,9 @@ Repository Viewcount:<img src="https://komarev.com/ghpvc/?username=fox-sign" />
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
+
+### Github Summary&Stats Card
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fox-sign&theme=GitHub">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fox-sign&theme=GitHub">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fox-sign&theme=GitHub">
