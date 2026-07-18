@@ -3,8 +3,8 @@
 
 ### Github View
 
-Old Repository Viewcount:<img src="https://komarev.com/ghpvc/?username=MCJAPAN" />
-Repository Viewcount:<img src="https://komarev.com/ghpvc/?username=fox-sign" />
+Old Profile Viewcount:<img src="https://komarev.com/ghpvc/?username=MCJAPAN" /><br>
+Profile Viewcount:<img src="https://komarev.com/ghpvc/?username=fox-sign" />
 ### Qiita Data
 <img height="20" src="https://qiita-badge.apiapi.app/s/foxsign/posts.svg" />
 <img height="20" src="https://qiita-badge.apiapi.app/s/foxsign/followers.svg" />
