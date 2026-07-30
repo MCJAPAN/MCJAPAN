@@ -39,11 +39,35 @@
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </span>
-
 <span id="data_ja"></span>
 ## :floppy_disk:私のデータ
 
+<b>Githubのアクティビティなど</b>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fox-sign&theme=GitHub">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fox-sign&theme=GitHub">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fox-sign&theme=GitHub">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fox-sign&theme=GitHub">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fox-sign&theme=GitHub&utcOffset=9">
+<img src="https://github-stats-evirunurm.vercel.app/api/stats?username=fox-sign&peng=false&color=white">
+<img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=fox-sign&pie=false&color=white">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fox-sign&theme=react">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fox-sign&theme=tokyonight">
+
+
+<b>Githubの閲覧者カウンター</b>
+
+旧アカウント:<img src="https://komarev.com/ghpvc/?username=MCJAPAN">
+現アカウント:<img src="https://komarev.com/ghpvc/?username=fox-sign">
+
+<b>Qiitaのデータ</b>
+<img height="20" src="https://qiita-badge.apiapi.app/s/foxsign/posts.svg" />
+<img height="20" src="https://qiita-badge.apiapi.app/s/foxsign/followers.svg" />
 
 
 <span id="link_ja"></span>
 ## :paperclip:関連サイトリンク集
+
+
+
+<hr>
+<span id="english"></span>
