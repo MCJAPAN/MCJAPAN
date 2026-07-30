@@ -1,12 +1,15 @@
-| :globe_with_meridians:<ruby><rb>言語選択</rb><rp>(</rp><rt>Select language</rt><rp>)</rp></ruby> | <a href="#japanese"><img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f1ef-1f1f5.svg" style="height:1.6rem;" align="center">日本語</a> | <a href="#english"><img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f1fa-1f1f8.svg" style="height:1.6rem;" align="center">English</a> |
+| :globe_with_meridians:<ruby><rb>言語選択</rb><rp>(</rp><rt>Select language</rt><rp>)</rp></ruby> | <a href="#japanese">➤<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f1ef-1f1f5.svg" style="height:1.6rem;" align="center">日本</a> | <a href="#english">➤<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f1fa-1f1f8.svg" style="height:1.6rem;" align="center">English</a> |
 | :---- | :---- | :---- |
-
-<br>
 
 <hr>
 <span id="japanese"></span>
 
+# :house_with_garden:きつねいろのGithubへようこそ！
+
+^^╋━━━━━━━━━━━━━━━━╋╯
+
 ## :bust_in_silhouette:私について
+
 こんにちは！きつねいろと申します！私は現在学生で、プログラミングが好きです。
 
 現在は、「Firechrone」という、
