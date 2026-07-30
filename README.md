@@ -19,7 +19,8 @@
   &ensp;&ensp;<a href="#about_ja">➤ :bust_in_silhouette:私について</a><br>
   &ensp;&ensp;<a href="#skill_ja">➤ :hammer_and_wrench:スキルと環境</a><br>
   &ensp;&ensp;<a href="#data_ja">➤ :floppy_disk:私のデータ</a><br>
-  &ensp;&ensp;<a href="#link_ja">➤ :paperclip:関連サイトリンク集</a>
+  &ensp;&ensp;<a href="#link_ja">➤ :paperclip:関連サイトリンク集</a><br>
+  &ensp;&ensp;<a href="#contact_ja">➤ :mailbox_with_mail:お問い合わせ</a>
 </details>
 
 
@@ -66,8 +67,14 @@
 
 <span id="link_ja"></span>
 ## :paperclip:関連サイトリンク集
+<kbd><b>Qiita↓</b><br><a href="https://qiita.com/foxsign"><img src="/logo-background-color.png" height="80vw"></a></kbd>
+<kbd><b>Note↓</b><br><a href="https://note.com/foxsign"><img src="/logo.png" height="80vw"></a></kbd>
+<kbd><b>マシュマロ↓</b><br><a href="https://x.gd/marsh_foxsign"><img src="/faviconV2.png" height="80vw"></a></kbd>
+<kbd><b>Firefoxアドオン↓</b><br><a href="https://addons.mozilla.org/ja/firefox/user/20019193/"><img src="/firefox-logo-lockup-stacked-fullcolor-black-rgb.svg" height="80vw"><img src="/firefox-pictorgram-puzzle-rgb.svg" height="80vw"></a></kbd>
 
-
+<span id="contact_ja"></span>
+## :mailbox_with_mail:お問い合わせ
+<p><b>お問い合わせフォーム (Tayoriで作成)</b>:<a href="https://x.gd/tayori_foxsign">きつねいろへの連絡</a></p>
 
 <hr>
 <span id="english"></span>
