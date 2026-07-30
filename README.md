@@ -81,7 +81,7 @@
 
 ## :house_with_garden:Welcome to foxsign's Github!
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Kiwi+Maru&size=40&duration=2500&pause=1000&width=510&height=70&lines=%E3%81%8D%E3%81%A4%E3%81%AD%E3% 81%84%E3%82%8D%E3%81%A8%E3%81%AF%EF%BC%9F;%E3%83%97%E3%83%AD%E3%82%B0%E3%83% A9%E3%83%9E%E3%83%BC%E3%81%A8%E3%83%96%E3%83%AD%E3%82%AC%E3%83%BC;%E5%B0%86% E6%9D%A5%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%81%A F%EF%BC%9F;%E7%B5%B5%E3%82%92%E3%81%8B%E3%81%84%E3%81%A6%E3%82%A2%E3%8 3%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%95%E3%81%9B%E3 %82%8B;Blender%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Kiwi+Maru&size=40&duration=2500&pause=1000&width=510&height=70&lines=Who+is+foxsign%3F;Programmer+and+Blogger;What+do+you+want+to+do+in+the+future%3F;Draw+and+animate;Mastering+Blender">
 
 <h3>Table of contents</h3>
 <details> <summary>Open</summary>
