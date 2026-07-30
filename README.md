@@ -16,9 +16,10 @@
 <h3>目次</h3>
 <details>
   <summary>開く</summary>
-  &ensp;&ensp;<a href="#about_ja">➤:bust_in_silhouette:私について</a><br>
-  &ensp;&ensp;<a href="#skill_ja">➤:hammer_and_wrench:スキルと環境</a><br>
-  &ensp;&ensp;<a href="#data_ja">➤:floppy_disk:私のデータ</a>
+  &ensp;&ensp;<a href="#about_ja">➤ :bust_in_silhouette:私について</a><br>
+  &ensp;&ensp;<a href="#skill_ja">➤ :hammer_and_wrench:スキルと環境</a><br>
+  &ensp;&ensp;<a href="#data_ja">➤ :floppy_disk:私のデータ</a><br>
+  &ensp;&ensp;<a href="#link_ja">➤ :paperclip:関連サイトリンク集</a>
 </details>
 
 
@@ -41,3 +42,8 @@
 
 <span id="data_ja"></span>
 ## :floppy_disk:私のデータ
+
+
+
+<span id="link_ja"></span>
+## :paperclip:関連サイトリンク集
