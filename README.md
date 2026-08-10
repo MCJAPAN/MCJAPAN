@@ -96,7 +96,7 @@
 <span id="about_ja"></span>
 ## :bust_in_silhouette:About Me
 
-<span>&ensp;&ensp;</span><img src="https://api.welcome.to/storage/avatars/avatar-mdfun8ba.webp" height="120" align="middle"><span>&ensp;&ensp;</span><font size="4"><b>&lt;</b></font> <kbd><font size="4">Hello! I go by foxsign. I'm currently a student and I love programming.<br><br>Right now, I'm developing "Firechrone,"<br><br>an extension that allows Chrome extensions to run on Firefox.<br><br>The languages ​​I work with are HTML5, CSS3, JavaScript, and Python (all plain/vanilla).<br><br>I'm also currently learning TailwindCSS.<br><br>I prefer Android over iOS, and I'm on Team "Takenoko no Sato." </font></kbd>
+<span>&ensp;&ensp;</span><img src="https://api.welcome.to/storage/avatars/avatar-mdfun8ba.webp" height="120" align="middle"><span>&ensp;&ensp;</span><font size="4"><b>&lt;</b></font> <kbd><font size="4">Hello! I go by foxsign. I'm currently a student and I love programming.<br><br>Right now, I'm developing "Firechrone,"<br><br>an extension that allows Chrome extensions to run on Firefox.<br><br>The languages ​​I work with are HTML5, CSS3, JavaScript, and Python (all plain/vanilla).<br><br>I'm also currently learning TailwindCSS.<br><br>I prefer Android over iOS, and I'm on Team "Windows." </font></kbd>
 
 <span id="skill_ja"></span>
 ## :hammer_and_wrench:Skills and environment
