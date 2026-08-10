@@ -57,7 +57,7 @@
 
 <b>Githubの閲覧者カウンター</b>
 
-旧アカウント:<img src="https://komarev.com/ghpvc/?username=MCJAPAN">
+旧アカウント:<img src="https://komarev.com/ghpvc/?username=MCJAPAN"><br>
 現アカウント:<img src="https://komarev.com/ghpvc/?username=fox-sign">
 
 <b>Qiitaのデータ</b>
@@ -110,7 +110,7 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </span>
 <span id="data_ja"></span>
-## :floppy_disk:my data
+## :floppy_disk:My data
 
 <b>Github activity etc.</b>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fox-sign&theme=GitHub">
@@ -126,7 +126,7 @@
 
 <b>Github viewer counter</b>
 
-Old account:<img src="https://komarev.com/ghpvc/?username=MCJAPAN">
+Old account:<img src="https://komarev.com/ghpvc/?username=MCJAPAN"><br>
 Current account:<img src="https://komarev.com/ghpvc/?username=fox-sign">
 
 <b>Qiita data</b>
