@@ -9,25 +9,17 @@
 <hr>
 <span id="japanese"></span>
 
-## :house_with_garden:きつねいろのGithubへようこそ！
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Kiwi+Maru&size=40&duration=2500&pause=1000&width=510&height=70&lines=%E3%81%8D%E3%81%A4%E3%81%AD%E3%81%84%E3%82%8D%E3%81%A8%E3%81%AF%EF%BC%9F;%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%A8%E3%83%96%E3%83%AD%E3%82%AC%E3%83%BC;%E5%B0%86%E6%9D%A5%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E3%81%93%E3%81%A8%E3%81%AF%EF%BC%9F;%E7%B5%B5%E3%82%92%E3%81%8B%E3%81%84%E3%81%A6%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%95%E3%81%9B%E3%82%8B;Blender%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99">
-
-<h3>目次</h3>
-<details>
-  <summary>開く</summary>
-  &ensp;&ensp;<a href="#about_ja">➤ :bust_in_silhouette:私について</a><br>
-  &ensp;&ensp;<a href="#skill_ja">➤ :hammer_and_wrench:スキルと環境</a><br>
-  &ensp;&ensp;<a href="#data_ja">➤ :floppy_disk:私のデータ</a><br>
-  &ensp;&ensp;<a href="#link_ja">➤ :paperclip:関連サイトリンク集</a><br>
-  &ensp;&ensp;<a href="#contact_ja">➤ :mailbox_with_mail:お問い合わせ</a>
-</details>
-
+## :wave:きつねいろのGithubへようこそ！
+|<h3>目次</h3>|
+| ----------- |
+|<details><summary>開く</summary>&ensp;&ensp;<a href="#about_ja">➤ :bust_in_silhouette:私について</a><br>&ensp;&ensp;<a href="#skill_ja">➤ :hammer_and_wrench:スキルと環境</a><br>&ensp;&ensp;<a href="#data_ja">➤ :floppy_disk:私のデータ</a><br>&ensp;&ensp;<a href="#link_ja">➤ :paperclip:関連サイトリンク集</a><br>&ensp;&ensp;<a href="#contact_ja">➤ :mailbox_with_mail:お問い合わせ</a></details>|
 
 <span id="about_ja"></span>
 ## :bust_in_silhouette:私について
 
-<span>&ensp;&ensp;</span><img src="https://api.welcome.to/storage/avatars/avatar-mdfun8ba.webp" height="120" align="middle"><span>&ensp;&ensp;</span><font size="4"><b>&lt;</b></font> <kbd><font size="4">こんにちは！きつねいろと申します！私は現在学生で、プログラミングが好きです。<br><br>現在は、「Firechrone」という、<br><br>Chromeの拡張機能をFirefoxで使えるようにする拡張機能を開発しています。<br><br>また、扱える言語はHTML5、CSS3、JavaScript、Python(すべてプレーン)です。<br><br>そして、TailwindCSSを勉強中です。<br><br>iOSよりAndroidが好みで、たけのこの里派。</font></kbd>
+<span>&ensp;&ensp;</span><img src="https://api.welcome.to/storage/avatars/avatar-mdfun8ba.webp" height="120" align="middle"><span>&ensp;&ensp;</span><font size="4"><b>&lt;</b></font> <kbd><font size="4">現在は学業の傍ら、Web開発やブラウザ拡張機能を中心に、便利なツールを作っています。<br><br>また、Chrome拡張機能をFirefoxで利用できるようにすることを目指した<a href="https://www.github.com/fox-sign/firechrone">Firechrone</a>を開発中です。<br><br>今はアルファ版として開発を進めています。<br><br>HTML/CSS/JavaScript/Python（Vanilla）を使用しています。<br><br>Tailwind CSSも勉強中です。<br><br>Android派で、たけのこの里派です。</font></kbd>
+
+<span>&ensp;&ensp;</span>
 
 <span id="skill_ja"></span>
 ## :hammer_and_wrench:スキルと環境
