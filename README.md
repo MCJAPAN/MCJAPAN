@@ -23,14 +23,14 @@
 
 <span id="skill_ja"></span>
 ## :hammer_and_wrench:スキルと環境
+| スキル | 開発環境 | 使用サービス |
+| ----- | ----- | ----- |
+| <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,py,git&theme=light&perline=3"></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,powershell,vscode,github&theme=light&perline=3"></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase,vercel,gcp,discord&theme=light&perline=3"></a></p> |
 
-<img src="https://skillicons.dev/icons?i=html,css,js,github,gmail,py,vscode,windows&perline=4">
 
 <span><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </span>
 <span id="data_ja"></span>
 ## :floppy_disk:私のデータ
