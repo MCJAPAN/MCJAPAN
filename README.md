@@ -27,7 +27,7 @@
 | ----- | ----- | ----- |
 | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,py,git&theme=light&perline=3"></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows,powershell,vscode,github&theme=light&perline=3"></a></p> | <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase,vercel,gcp,discord&theme=light&perline=3"></a></p> |
 
-
+<b>開発の補助ツールやブラウザー</b>
 <span><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
