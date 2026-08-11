@@ -39,7 +39,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fox-sign&theme=GitHub">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fox-sign&theme=GitHub">
 <img src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=fox-sign&pie=false&color=white">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fox-sign&theme=tokyonight&hide_border=%E9%96%93%E9%81%95%E3%81%84&locale=ja&short_numbers=%E9%96%93%E9%81%95%E3%81%84" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=fox-sign&theme=tokyonight&hide_border=%E9%96%93%E9%81%95%E3%81%84&locale=ja&short_numbers=%E9%96%93%E9%81%95%E3%81%84">
 
 
 <b>Githubの閲覧者カウンター</b>
